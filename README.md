@@ -25,9 +25,6 @@
 ・「トレーニンングを始めたいけど何をすれば良いかわからない...」そんな時の情報収集に！
 ・「一緒にトレーニングする仲間が欲しい...」仲間探しに！
 
-## 設計書
-<...>
-
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1EggL4oRAcprE3LGeA2tLxE5Sf7COWcxpo97QLi9qdek/edit?usp=sharing
 
